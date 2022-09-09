@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @wasimapinjari
-- 👀 I’m interested in coding, gaming, music and traveling
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking for exciting opportunities
-- 📫 Email me: wasimapinjari@gmail.com
-- 😍 Social Media: @wasimapinjari
+- 👋 Hi, I’m Wasim
+- 👀 I love coding, gaming, music and traveling
+- 💞️ I'm looking for exciting opportunities
+- 😍 Links for reaching out: [@wasimapinjari](https://bio.link/wasimapinjari)
 
 <!---
 wasimapinjari/wasimapinjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
