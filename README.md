@@ -3,8 +3,9 @@
 - 💞️ I'm looking for exciting opportunities
 - 😍 Links for reaching out: [@wasimapinjari](https://wasimapinjari.bio.link)
 
-- 😎 Languages: HTML, CSS, JavaScript, Sass, PHP, Bash
-- 😋 Technologies and Frameworks: Node.js, Express.js, jQuery, EJS, SQL/MongoDB, Mongoose, Bootstrap, Git, Node.js, Express.js, jQuery, Bootstrap, AJAX, Git
+- 😎 Languages: HTML, CSS, JavaScript, Sass, PHP, Bash, Markdown, Motoko
+- 😋 Technologies and Frameworks: React, Node.js, Express.js, Git, RESTful API, SQL/MongoDB, Mongoose, jQuery, 
+EJS, Nunjucks, Bootstrap
 
 <!---
 wasimapinjari/wasimapinjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
