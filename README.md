@@ -1,10 +1,9 @@
-- 👋 Hi, I’m Wasim
-- 👀 I love coding, gaming, music and traveling
+- 👋 Hi, I’m Wasim. I love coding & designing
 - 💞️ I'm looking for exciting opportunities
 - 😍 Links for reaching out: [@wasimapinjari](https://wasimapinjari.bio.link)
-- 😃 Website: [http://wasimapinjari.netlify.app](http://wasimapinjari.netlify.app/)
+- 👀 Website: [http://wasimapinjari.netlify.app](http://wasimapinjari.netlify.app/)
 - 😎 Languages: HTML, CSS, JavaScript, Sass, PHP, Bash, Markdown, Motoko
-- 😋 Technologies and Frameworks: React, Node.js, Express.js, Git, RESTful API, SQL/MongoDB, Mongoose, jQuery, 
+- 😋 Technologies & Frameworks: React.js, Node.js, Express.js, Git, RESTful API, SQL/MongoDB, Mongoose, jQuery, 
 EJS, Nunjucks, Bootstrap
 
 <!---
