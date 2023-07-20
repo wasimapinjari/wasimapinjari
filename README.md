@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wasim. I love coding & designing.
-- 💞️ I'm looking for exciting opportunities.
+- 💞️ I'm looking for work.
 - 😍 Links for reaching out: [@wasimapinjari](https://wasimapinjari.bio.link)
 - 👀 Website: [http://wasimapinjari.netlify.app](http://wasimapinjari.netlify.app/)
 - 😎 Languages: HTML, CSS, JavaScript, Sass, PHP, Bash, Markdown, Motoko
