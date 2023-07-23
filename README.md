@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Wasim. I love coding & designing.
 - 💞️ I'm looking for work.
-- 😍 Links for reaching out: [@wasimapinjari](https://wasimapinjari.bio.link)
 - 👀 Website: [http://wasimapinjari.netlify.app](http://wasimapinjari.netlify.app/)
+- 📧 Email: wasimapinjari@gmail.com
+- 😍 Other links for reaching out: [@wasimapinjari](https://wasimapinjari.bio.link)
 - 😎 Languages: TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, Motoko
 - 😄 Databases: SQL, MongoDB
 - 😋 Technologies & Frameworks: React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, 
