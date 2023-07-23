@@ -3,10 +3,9 @@
 - 👀 Website: [http://wasimapinjari.netlify.app](http://wasimapinjari.netlify.app/)
 - 📧 Email: wasimapinjari@gmail.com
 - 😍 Other links: [@wasimapinjari](https://wasimapinjari.bio.link)
-- 😎 Languages: TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, Motoko
+- 😎 Languages: TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, EJS, Nunjucks, Motoko
 - 😄 Databases: SQL, MongoDB
-- 😋 Technologies & Frameworks: React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, 
-EJS, Nunjucks, Bootstrap
+- 😋 Technologies & Frameworks: React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, Bootstrap
  
 <!---
 wasimapinjari/wasimapinjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
