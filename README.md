@@ -4,7 +4,7 @@
 - 📧 Email: wasimapinjari@gmail.com
 - 😍 Other links: [@wasimapinjari](https://wasimapinjari.bio.link)
 - 😎 Languages: TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, EJS, Nunjucks, Motoko
-- 😄 Databases: SQL, MongoDB
+- 😄 Databases: SQL/MongoDB
 - 😋 Libraries, Frameworks & Technologies: React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, Bootstrap
  
 <!---
