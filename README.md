@@ -6,9 +6,7 @@
 - 😍 Other links: [@wasimapinjari](https://wasimapinjari.bio.link)
 
 ## Skills
-- 😎 TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, EJS, Nunjucks, Motoko
-- 😄 SQL/MongoDB
-- 😋 React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, Bootstrap
+- TypeScript, JavaScript, Sass, HTML, CSS, PHP, Bash, Markdown, EJS, Nunjucks, Motoko, SQL/MongoDB, React.js, Next.js, Node.js, Express.js, Git, RESTful API, Mongoose, jQuery, Bootstrap
  
 <!---
 wasimapinjari/wasimapinjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
