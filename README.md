@@ -27,7 +27,7 @@
 
 ### <p align="center"><span style="color: MediumSlateBlue;">&mdash;</span><span style="color: #ffca85;"> Projects</span><span style="color: MediumSlateBlue;">&mdash;</span></p>
 
-<p align="center"><a href="https://github.com/wasimapinjari/eventpass"><img src="https://img.shields.io/badge/Event%20Pass-gold?&amp;logoColor=black&amp;style=for-the-badge" alt="Event Pass"></a><a href="https://github.com/wasimapinjari/w-crypt"><img src="https://img.shields.io/badge/W&mdash;Crypt-mediumslateblue?&amp;logoColor=black&amp;style=for-the-badge" alt="W-Crypt"></a></p>
+<p align="center"><a href="https://github.com/wasimapinjari/event-pass"><img src="https://img.shields.io/badge/Event%20Pass-gold?&amp;logoColor=black&amp;style=for-the-badge" alt="Event Pass"></a><a href="https://github.com/wasimapinjari/w-crypt"><img src="https://img.shields.io/badge/W&mdash;Crypt-mediumslateblue?&amp;logoColor=black&amp;style=for-the-badge" alt="W-Crypt"></a></p>
 
 <!-- 
 --- 
