@@ -2,12 +2,12 @@
  
 ## <p align=center><span style="color: MediumSlateBlue;">&mdash;</span>&nbsp;&nbsp;<img height="120%" src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="center"  style="border: 1px solid #ffca85;">&nbsp;&nbsp;<span style="color: MediumSlateBlue;">&mdash;</span></p>
 
-### <p align="center" style="color: red">Hi, myself Wasim 👋</p>
-### <p align="center">You can find me <a href="https://wasimapinjari.bio.link">@wasimapinjari</a> 😀</p>
+### <p align="center">Hi, myself Wasim 👋</p>
+### <p align="center">You can find me <a href="https://wasimapinjari.bio.link" style="color: MediumSlateBlue; text-decoration: none; border-bottom: 2px solid MediumSlateBlue; padding-bottom: 2px; font-size: inherit; font-weight: inherit;">@wasimapinjari</a> 😀</p>
 ### <p align="center">I love coding & designing 🥰</p>
 ### <p align="center">I'm looking for exciting work opportunities 💞️</p>
 
----
+<hr color=MediumSlateBlue>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=wasimapinjari&show_icons=true&count_private=true&theme=aura&hide_border=true&hide=issues,contribs&bg_color=00000000">
@@ -15,7 +15,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=wasimapinjari&theme=aura&hide_border=true&background=FFFFFF00">
 </p>
 
----
+<hr color=MediumSlateBlue>
 
 ### <p align="center"><span style="color: MediumSlateBlue;">&mdash;</span><span style="color: #ffca85;"> Links </span><span style="color: MediumSlateBlue;">&mdash;</span></p>
 
