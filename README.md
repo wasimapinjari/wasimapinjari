@@ -62,13 +62,13 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&amp;logo=sass&amp;logoColor=white" alt="Sass">
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&amp;logoColor=black&amp;style=for-the-badge" alt="React">
     <img src="https://img.shields.io/badge/React%20router-crimson?style=for-the-badge&amp;logo=reactrouter&amp;logoColor=white" alt="React Router">
-    <img src="https://img.shields.io/badge/CSS%20modules-blue?style=for-the-badge&amp;logo=cssmodules&amp;logoColor=white" alt="CSS Modules">
     <img src="https://img.shields.io/badge/Redux-mediumslateblue?style=for-the-badge&amp;logo=redux&amp;logoColor=white" alt="Redux">
+    <img src="https://img.shields.io/badge/React Query-crimson?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" alt="React Query">
+    <img src="https://img.shields.io/badge/CSS%20modules-blue?style=for-the-badge&amp;logo=cssmodules&amp;logoColor=white" alt="CSS Modules">
     <img src="https://img.shields.io/badge/Styled Components-pink?style=for-the-badge&amp;logo=styledcomponents&amp;logoColor=black" alt="Styled Components">
     <img src="https://img.shields.io/badge/Tailwind CSS-61DAFB?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=black" alt="Tailwind CSS">
     <img src="https://img.shields.io/badge/Framer Motion -blue?style=for-the-badge&amp;logo=framer&amp;logoColor=white" alt="Framer Motion">
     <img src="https://img.shields.io/badge/Supabase-6ee7b7?style=for-the-badge&amp;logo=supabase&amp;logoColor=black" alt="Supabase">
-    <img src="https://img.shields.io/badge/React Query-crimson?style=for-the-badge&amp;logo=reactquery&amp;logoColor=white" alt="React Query">
     <img src="https://img.shields.io/badge/MySQL-gold?style=for-the-badge&amp;logo=mysql&amp;logoColor=black" alt="MySQL">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&amp;logoColor=white&amp;style=for-the-badge" alt="MongoDB">
     <img src="https://img.shields.io/badge/Mongoose-brown?style=for-the-badge&amp;logo=mongoose&amp;logoColor=white" alt="Mongoose">
