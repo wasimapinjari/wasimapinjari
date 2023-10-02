@@ -15,13 +15,13 @@
   -->
   <br />
   
-  ### Hi, myself Wasim 👋
+  Hi, myself Wasim 👋
 
-  ### You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀
+  You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀
 
-  ### I love coding & designing 🥰
+  I love coding & designing 🥰
 
-  ### I'm looking for exciting work opportunities 💞️
+  I'm looking for exciting work opportunities 💞️
 
   <hr color=MediumSlateBlue>
 
