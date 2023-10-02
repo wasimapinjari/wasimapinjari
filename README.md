@@ -15,13 +15,13 @@
   -->
   <br />
   
-  <p align="center">Hi, myself Wasim 👋</p>
+  - Hi, myself Wasim 👋
 
-  <p align="center">You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀</p>
+  - You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀
 
-  <p align="center">I love coding & designing 🥰</p>
+  - I love coding & designing 🥰
 
-  <p align="center">I'm looking for exciting work opportunities 💞️</p>
+  - I'm looking for exciting work opportunities 💞️
 
   <hr color=MediumSlateBlue>
 
