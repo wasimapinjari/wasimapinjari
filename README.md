@@ -1,15 +1,27 @@
 <center style="color: #ffca85;">
  
-  <!-- ## <p align=center><span style="color: MediumSlateBlue;">&mdash;</span>&nbsp;&nbsp;<img height="120%" src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="center"  style="border: 1px solid #ffca85;">&nbsp;&nbsp;<span style="color: MediumSlateBlue;">&mdash;</span></p> -->
-  <br />
+  <!-- 
   
+  ## <p align=center><span style="color: MediumSlateBlue;">&mdash;</span>&nbsp;&nbsp;<img height="120%" src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="center"  style="border: 1px solid #ffca85;">&nbsp;&nbsp;<span style="color: MediumSlateBlue;">&mdash;</span></p>
+
   ### <p align="center">Hi, myself Wasim 👋</p>
 
   ### <p align="center">You can find me <a href="https://wasimapinjari.bio.link" style="color: MediumSlateBlue; text-decoration: none; border-bottom: 2px solid MediumSlateBlue; padding-bottom: 2px; font-size: inherit; font-weight: inherit;">@wasimapinjari </a>😀</p>
 
   ### <p align="center">I love coding & designing 🥰</p>
 
-  ### <p align="center">I'm looking for exciting work opportunities 💞️</p>
+  ### <p align="center">I'm looking for exciting work opportunities 💞️</p> 
+  
+  -->
+  <br />
+  
+  ### Hi, myself Wasim 👋
+
+  ### You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀
+
+  ### I love coding & designing 🥰
+
+  ### I'm looking for exciting work opportunities 💞️
 
   <hr color=MediumSlateBlue>
 
