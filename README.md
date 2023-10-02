@@ -15,7 +15,7 @@
   -->
   <br />
   
-  <h3 align="center">Hi, myself Wasim 👋</h3>
+  <p align="center">Hi, myself Wasim 👋</p>
 
   <p align="center">You can find me [@wasimapinjari](https://wasimapinjari.bio.link) 😀</p>
 
