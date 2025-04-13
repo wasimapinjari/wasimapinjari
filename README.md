@@ -25,7 +25,7 @@
 
   <p align="center"> - I'm looking for exciting work opportunities 💞️ -</p>
 
-  <p align="center"> - Author of <a href="https://payhip.com/wasim100x" style="color: MediumSlateBlue; text-decoration: none; border-bottom: 2px solid MediumSlateBlue; padding-bottom: 2px; font-size: inherit; font-weight: inherit;">"10 TypeScript Magic Tricks For Clean Code"</a> 😀 -</p>
+  <p align="center"> - Author of <a href="https://payhip.com/b/z3Lfa" style="color: MediumSlateBlue; text-decoration: none; border-bottom: 2px solid MediumSlateBlue; padding-bottom: 2px; font-size: inherit; font-weight: inherit;">"10 TypeScript Magic Tricks For Clean Code"</a> 😀 -</p>
   <hr color=MediumSlateBlue>
 
   <p align="center">
